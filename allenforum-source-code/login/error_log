@@ -1,0 +1,5 @@
+[13-Nov-2018 14:48:32 UTC] PHP Fatal error:  Call to undefined function ini_display_error() in /home/meraproj/public_html/project/allenforum/config/configuration.php on line 11
+[13-Nov-2018 14:48:36 UTC] PHP Fatal error:  Call to undefined function ini_display_error() in /home/meraproj/public_html/project/allenforum/config/configuration.php on line 11
+[13-Nov-2018 14:49:12 UTC] PHP Fatal error:  Call to undefined function ini_display_errors() in /home/meraproj/public_html/project/allenforum/config/configuration.php on line 11
+[13-Nov-2018 14:49:19 UTC] PHP Fatal error:  Call to undefined function ini_display_errors() in /home/meraproj/public_html/project/allenforum/config/configuration.php on line 11
+[13-Nov-2018 14:51:22 UTC] PHP Fatal error:  Call to undefined function display_errors() in /home/meraproj/public_html/project/allenforum/config/configuration.php on line 11

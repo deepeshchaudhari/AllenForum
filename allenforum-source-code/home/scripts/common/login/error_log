@@ -1,0 +1,24 @@
+[09-Apr-2018 02:32:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/cubersindia/public_html/forum/config/configuration.php on line 14
+[09-Apr-2018 02:32:26 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 9
+[09-Apr-2018 02:32:26 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 10
+[09-Apr-2018 02:32:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 13
+[09-Apr-2018 02:32:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 14
+[09-Apr-2018 02:32:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/cubersindia/public_html/forum/config/configuration.php on line 14
+[09-Apr-2018 02:32:44 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 9
+[09-Apr-2018 02:32:44 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 10
+[09-Apr-2018 02:32:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 13
+[09-Apr-2018 02:32:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 14
+[09-Apr-2018 02:32:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/cubersindia/public_html/forum/config/configuration.php on line 14
+[09-Apr-2018 02:32:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 9
+[09-Apr-2018 02:32:45 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 10
+[09-Apr-2018 02:32:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 13
+[09-Apr-2018 02:32:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cubersindia/public_html/forum/home/scripts/common/login/ajax-login-request.php on line 14

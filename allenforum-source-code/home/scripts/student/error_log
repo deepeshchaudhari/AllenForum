@@ -1,0 +1,1 @@
+[07-Apr-2018 15:10:41 UTC] PHP Warning:  unlink(../../uploads/profilePic/students/IMG-20180130-WA0006.jpg): No such file or directory in /home/cubersindia/public_html/forum/home/functions/student/Students.php on line 25

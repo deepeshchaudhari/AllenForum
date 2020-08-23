@@ -1,0 +1,18 @@
+[02-Apr-2018 05:10:26 UTC] PHP Warning:  include(cat/cat_eligibility.php): failed to open stream: No such file or directory in /home/cubersindia/public_html/forum/home/cat_details.php on line 49
+[02-Apr-2018 05:10:26 UTC] PHP Warning:  include(cat/cat_eligibility.php): failed to open stream: No such file or directory in /home/cubersindia/public_html/forum/home/cat_details.php on line 49
+[02-Apr-2018 05:10:26 UTC] PHP Warning:  include(): Failed opening 'cat/cat_eligibility.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cubersindia/public_html/forum/home/cat_details.php on line 49
+[02-Apr-2018 20:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/cubersindia/public_html/forum/home/view-library-books.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cubersindia/public_html/forum/home/view-library-books.php on line 60
+[02-Apr-2018 20:51:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cubersindia/public_html/forum/home/search-book-to-entry.php:1) in /home/cubersindia/public_html/forum/config/session_header.php on line 1
+[02-Apr-2018 20:51:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cubersindia/public_html/forum/home/search-book-to-entry.php:1) in /home/cubersindia/public_html/forum/config/session_header.php on line 1
+[06-Oct-2018 15:09:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/meraproj/public_html/project/allenforum/home/dashboard.php on line 1
+[30-Oct-2018 18:35:25 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/meraproj/public_html/project/allenforum/home/view-library-books.php on line 48
+[30-Oct-2018 18:35:30 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/meraproj/public_html/project/allenforum/home/view-library-books.php on line 48
+[13-Nov-2018 20:02:47 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/meraproj/public_html/project/allenforum/home/view-library-books.php on line 48
+[13-Nov-2018 20:02:59 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/meraproj/public_html/project/allenforum/home/view-library-books.php on line 48
+[13-Nov-2018 20:03:08 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/meraproj/public_html/project/allenforum/home/view-library-books.php on line 48
+[13-Nov-2018 14:47:49 UTC] PHP Fatal error:  Call to undefined function ini_display_error() in /home/meraproj/public_html/project/allenforum/config/configuration.php on line 11
+[13-Nov-2018 14:47:57 UTC] PHP Fatal error:  Call to undefined function ini_display_error() in /home/meraproj/public_html/project/allenforum/config/configuration.php on line 11
+[14-Nov-2018 02:28:23 UTC] PHP Parse error:  syntax error, unexpected '|' in /home/meraproj/public_html/project/allenforum/home/view-library-books.php on line 58

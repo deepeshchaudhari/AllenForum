@@ -1,0 +1,4 @@
+[01-Apr-2018 18:46:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cubersindia/public_html/forum/config/configuration.php on line 13
+[09-Apr-2018 02:31:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/cubersindia/public_html/forum/config/configuration.php on line 14
+[09-Apr-2018 02:32:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/cubersindia/public_html/forum/config/configuration.php on line 14
+[09-Apr-2018 02:33:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/cubersindia/public_html/forum/config/configuration.php on line 14

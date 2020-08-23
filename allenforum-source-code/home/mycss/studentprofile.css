@@ -1,0 +1,25 @@
+
+/*
+ Experience Section Layout
+ */
+.exp-col-1-heading{
+    float: left;
+    width: 90%;
+    height: 50px;
+}
+.exp-col-2-heading{
+    float: right;
+    width: 10%;
+    height: 50px;
+    vertical-align: text-top;
+
+}
+
+.exp-col-1{
+    float: left;
+    width: 90%;
+}
+.exp-col-2{
+    float: right;
+    width: 10%;
+}
